@@ -1,21 +1,3 @@
-# Docker - Palworld Dedicated Server
-
-[![Build-Status master](https://github.com/jammsen/docker-palworld-dedicated-server/actions/workflows/docker-build-and-push-prod.yml/badge.svg)](https://github.com/jammsen/docker-palworld-dedicated-server/actions/workflows/docker-build-and-push-prod.yml)
-[![Build-Status develop](https://github.com/jammsen/docker-palworld-dedicated-server/actions/workflows/docker-build-and-push-develop.yml/badge.svg)](https://github.com/jammsen/docker-palworld-dedicated-server/actions/workflows/docker-build-and-push-develop.yml)
-![Docker Pulls](https://img.shields.io/docker/pulls/jammsen/palworld-dedicated-server)
-![Docker Stars](https://img.shields.io/docker/stars/jammsen/palworld-dedicated-server)
-![Image Size](https://img.shields.io/docker/image-size/jammsen/palworld-dedicated-server/latest)
-[![Discord](https://img.shields.io/discord/532141442731212810?logo=discord&label=Discord&link=https%3A%2F%2Fdiscord.gg%2F7tacb9Q6tj)](https://discord.gg/7tacb9Q6tj)
-
-> [!TIP]
-> Do you want to chat with the community?
->
-> **[Join us on Discord](https://discord.gg/7tacb9Q6tj)**
-
-This Docker image includes a Palworld Dedicated Server based on Linux and Docker.
-
-___
-
 ## Table of Contents
 
 - [Docker - Palworld Dedicated Server](#docker---palworld-dedicated-server)
