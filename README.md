@@ -1,8 +1,6 @@
 ## Table of Contents
 
 - [Docker - Palworld Dedicated Server](#docker---palworld-dedicated-server)
-  - [Table of Contents](#table-of-contents)
-  - [How to ask for support for this Docker image](#how-to-ask-for-support-for-this-docker-image)
   - [Requirements](#requirements)
   - [Minimum system requirements](#minimum-system-requirements)
   - [Changelog](#changelog)
