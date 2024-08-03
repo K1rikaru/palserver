@@ -1,0 +1,2 @@
+# palserver
+palworld dedication server
