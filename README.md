@@ -29,7 +29,7 @@ If you need support for this Docker image:
 - Feel free to create a new issue.
   - You can reference other issues if you're experiencing a similar problem via #issue-number.
 - Follow the instructions and answer the questions of people who are willing to help you.
-- Once your issue is resolved, please close it and please consider giving this repo and the [Docker-Hub repository](https://hub.docker.com/repository/docker/kirikaru/palworld-dedicated-server) a star.
+- Once your issue is resolved, please close it and please consider giving this repo and the [Docker-Hub repository](https://hub.docker.com/r/kirikaru/docker-palworld-dedicated-server) a star.
 - Please note that any issue that has been inactive for a week will be closed due to inactivity.
 
 Please avoid:
